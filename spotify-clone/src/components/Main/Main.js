@@ -11,16 +11,17 @@ export default function Main(){
           bg-spotify-theme-mobile 
           md:bg-spotify-theme 
           bg-banner-mobile 
-          md:bg-banner
-          bg-195%
-          md:bg-175%
-          bg-purple-main
-          text-green-main
+          md:bg-banner 
+          bg-185% 
+          md:bg-175% 
+          bg-purple-main 
+          text-green-main 
+          h-screen
           py-40 
           px-4">
         <h1 className="
           text-5xl 
-          md:text-9xl 
+          md:text-7xl 
           mb-10 
           font-bold 
           max-w-4xl 

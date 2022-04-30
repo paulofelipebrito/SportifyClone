@@ -19,7 +19,7 @@ module.exports = {
       }),
       backgroundSize: {
         '175%': '175%',
-        '195%': '195%',
+        '185%': '185%',
       },
       backgroundPosition: {
         'banner': '46% 4%',

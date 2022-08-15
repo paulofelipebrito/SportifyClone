@@ -14,8 +14,8 @@ Welcome to the _GitHub repository_ of my **Spotify Clone** project! Here you can
 <div align="center">
 
 <p style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="spotify" title="#spotify" src="./src/assets/demo.gif" > 
-  <img alt="spotify1" title="#spotify1" src="./src/assets/demo1.gif" > 
+  <img alt="spotify" title="#spotify" src="./src/Assets/demo.gif" > 
+  <img alt="spotify1" title="#spotify1" src="./src/Assets/demo1.gif" > 
 
 </p>
 </div>
